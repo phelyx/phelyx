@@ -8,7 +8,7 @@
 
 - 📫 Feel free to reach out to me via email at felixugwunna@gmail.com for any inquiries or opportunities. Let's connect and build amazing things together!
 
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/ludehsar/)
+[![Linkedin Badge](https://img.shields.io/badge/-felix-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felix-ugwunna-a0167b12b/)](https://www.linkedin.com/in/felix-ugwunna-a0167b12b/)
 <!---
 phelyx/phelyx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
